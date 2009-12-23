@@ -2,9 +2,9 @@
 Contributors: greenshady
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3687060
 Tags: navigation, menu
-Requires at least: 2.5
-Tested up to: 2.7.1
-Stable tag: 0.1
+Requires at least: 2.8
+Tested up to: 2.9
+Stable tag: 0.2.1
 
 An easy-to-use template tag for showing a breadcrumb menu on your site.
 
@@ -56,7 +56,14 @@ There are no screenshots for this plugin.
 
 == Changelog ==
 
-Ealier versions were not documented well.
+** Version 0.2.1 **
+
+* Removed and/or added (depending on the case) the extra separator item on sub-categories and date-/time-based breadcrumbs.
+
+** Version 0.2 **
+
+* The title of the "home" page (i.e. posts page) when not the front page is now properly recognized.
+* Cleaned up the code and logic behind the plugin.
 
 **Version 0.1**
 
